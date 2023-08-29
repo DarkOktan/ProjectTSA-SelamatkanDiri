@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5591403877616021711}
   - component: {fileID: 1300745499461139461}
   - component: {fileID: 2942743923689312543}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Renderer
   m_TagString: SoftObstacle
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8815066163827915183}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Obstacle_2(Orang)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
