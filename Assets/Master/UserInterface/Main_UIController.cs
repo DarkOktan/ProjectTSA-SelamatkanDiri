@@ -86,4 +86,9 @@ public class Main_UIController : MonoBehaviour
 	{
 		SceneManager.LoadScene(0);
 	}
+
+	public void QuitButton()
+	{
+		Application.Quit();
+	}
 }

@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -127,7 +127,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ui Desain-rev_0
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3476
+        width: 4307
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4305ff569a8c4a9bea6fef2104eb2
+      internalID: -998270209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2209
+        width: 1824
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6105870dae5ff442b369ac127fc3e9b
+      internalID: -143258916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_9
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 3047
+        width: 1268
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f07a04579c884ebb4939db5824887
+      internalID: 890871210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_17
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 3047
+        width: 2219
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b639893ce67415409195572650a089e
+      internalID: -1765486438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1217
+        width: 1828
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ea45c6c9a11c47a1687ec5fccf9c0
+      internalID: 332570415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_19
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 584
+        width: 3205
+        height: 2342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6078a80d2427b4e9d44c0546706f88
+      internalID: -1036247457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 518
+        width: 874
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb457e5217c3f55458d5c638ea80c1fb
+      internalID: -1340102343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 2398
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdeea689c0cba140bc34f28207643ba
+      internalID: -480954930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_23
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 42
+        width: 545
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a42674e191a3a4aabbbbd4e3b657a4
+      internalID: -2110552641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_24
+      rect:
+        serializedVersion: 2
+        x: 5593
+        y: 38
+        width: 556
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a37d6d01df7243b53f789ce216cfe
+      internalID: 267058811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Desain-rev_1
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 3498
+        width: 721
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771480065f7971f44baff2cdf64d2b27
+      internalID: -240655163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +369,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ui Desain-rev_3: 1551690206
+      Ui Desain-rev_1: -240655163
+      Ui Desain-rev_9: 890871210
+      Ui Desain-rev_22: -480954930
+      Ui Desain-rev_10: 545565122
+      Ui Desain-rev_13: 773356203
+      Ui Desain-rev_23: -2110552641
+      Ui Desain-rev_6: 1066156866
+      Ui Desain-rev_8: -143258916
+      Ui Desain-rev_24: 267058811
+      Ui Desain-rev_4: 1675951953
+      Ui Desain-rev_15: -1371631653
+      Ui Desain-rev_7: 1427903891
+      Ui Desain-rev_16: 1109083076
+      Ui Desain-rev_19: -1036247457
+      Ui Desain-rev_21: -491508700
+      Ui Desain-rev_11: 1626515215
+      Ui Desain-rev_14: -1027132840
+      Ui Desain-rev_0: -998270209
+      Ui Desain-rev_17: -1765486438
+      Ui Desain-rev_20: -1340102343
+      Ui Desain-rev_18: 332570415
+      Ui Desain-rev_12: 89790187
+      Ui Desain-rev_5: -1946908305
+      Ui Desain-rev_2: 342432556
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

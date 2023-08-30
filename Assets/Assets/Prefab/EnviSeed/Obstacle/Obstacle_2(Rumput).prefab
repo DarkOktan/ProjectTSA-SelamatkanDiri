@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: e6db7a9ae1ef2094b968e7df2601d728, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3b9ddf0da3cdf0e4f8c40586a964d41a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -98,18 +98,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.020682216, y: -0.016922474}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.93, y: 1.22}
+    oldSize: {x: 1.28, y: 1.28}
     newSize: {x: 1.29, y: 0.96}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.93, y: 1.22}
+  m_Size: {x: 1.1408641, y: 0.9979696}
   m_EdgeRadius: 0
 --- !u!1 &8815066163827915180
 GameObject:
@@ -121,7 +121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8815066163827915183}
   m_Layer: 8
-  m_Name: Obstacle_2(Orang)
+  m_Name: Obstacle_2(Rumput)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
