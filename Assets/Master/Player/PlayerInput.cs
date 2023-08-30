@@ -22,10 +22,12 @@ public class PlayerInput : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.Z))
 		{
 			combat.RantingAttack();
+			PlayerController.Instance.e_playerAnimator.SetTrigger("RantingAttack");
 		}
 		if (Input.GetKeyDown(KeyCode.X))
 		{
-			combat.KetapelAttack();
+			// combat.KetapelAttack();
+			PlayerController.Instance.e_playerAnimator.SetTrigger("KetapelAttack");
 		}
     }
 
